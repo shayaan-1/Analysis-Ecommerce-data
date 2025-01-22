@@ -1,5 +1,5 @@
 # Analysis-Ecommerce-data
-An analysis of Kaggle dataset on Target's Brazilian operations and customer data using Pthon, SQL, Numpy, Pandas, Matplotlib and Seaborn.
+An analysis of Kaggle dataset on Target's Brazilian operations and customer data using Python, SQL, Numpy, Pandas, Matplotlib and Seaborn.
 
 ## Setup
 1. Donwload dataset from https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
